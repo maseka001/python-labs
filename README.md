@@ -1,52 +1,71 @@
-# 🧪 Python Labs
+#  Python Labs
 
-Welcome to **Python Labs** — a personal space where I practice, experiment, and improve my Python skills.
+> A collection of Python exercises, experiments, and mini-projects as I learn and grow.
 
-## 📌 About
+---
 
-This repository contains various Python scripts, exercises, and mini-projects that I build while learning. It’s a collection of my progress, mistakes, and improvements over time.
+##  About
 
-## 🎯 Goals
+This repository documents my journey learning Python through hands-on practice.
+It includes basic concepts, problem-solving exercises, and small projects.
 
-* Strengthen core Python fundamentals
-* Practice problem-solving and algorithms
-* Explore different Python libraries and tools
-* Build small projects for hands-on experience
+---
 
-## 🚀 How to Run
+##  Project Structure
 
-1. Clone the repository:
+```bash
+python-labs/
+├── basics/            # Variables, loops, conditionals
+├── functions/         # Functions and reusable code
+├── data_structures/   # Lists, tuples, sets, dictionaries
+├── algorithms/        # Sorting, searching, problem-solving
+├── projects/          # Mini projects
+└── misc/              # Experiments & random scripts
+```
 
-   ```
-   git clone https://github.com/maseka001/python-labs.git
-   ```
+---
 
-2. Navigate into the folder:
+##  Topics Covered
 
-   ```
-   cd python-labs
-   ```
+* Variables & Data Types
+* Control Flow (if/else, loops)
+* Functions
+* Data Structures
+* File Handling
+* Basic Algorithms
 
-3. Run any Python file:
+---
 
-   ```
-   python filename.py
-   ```
+## 🛠 Tech Stack
 
-## 🛠 Requirements
+* Python 3
 
-* Python 3.x installed
-
-(Optional)
-
-* Virtual environment (recommended)
+---
 
 ## 📈 Progress
 
-This repo will grow as I continue learning Python. Expect frequent updates and improvements.
+* [x] Basics
+* [ ] Intermediate Python
+* [ ] Object-Oriented Programming
+* [ ] Projects
 
-## 🤝 Contributions
+---
 
-This is a personal learning repository, but suggestions and ideas are always welcome!
+## ▶️ Getting Started
+
+```bash
+git clone https://github.com/maseka001/python-labs.git
+cd python-labs
+python filename.py
+```
+
+---
+
+##  Contributing
+
+This is a personal learning repo, but suggestions are welcome.
+
+---
 
 
+⭐ *Consistent practice beats talent.*
